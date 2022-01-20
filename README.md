@@ -1,5 +1,7 @@
 # rdo-lobby-selector
 
+**Note:**: This program makes a BIG assumption that your game is installed at C:\Program Files\Epic Games\RedDeadRedemption2. If it's not, this will not work. I welcome PRs to fix this.
+
 First, click the green "<> Code" button above and select "Download ZIP". Right click that file and choose to extract all files to a folder.
 
 To run the program, right click on the file named "rdo-lobby-selector.ps1" inside this folder and select "Run with PowerShell". 
